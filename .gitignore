@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/Gra-w-zycie/v17/.suo
+.vs/Gra-w-zycie/v17/Browse.VC.db
+.vs/Gra-w-zycie/v17/Browse.VC.db-shm
+.vs/Gra-w-zycie/v17/Browse.VC.db-wal
+.vs/Gra-w-zycie/v17/Browse.VC.opendb
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/10a6a07e394fd878/GAMETXT.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/5dd3b4f303d68c0d/GAMEOFLIFE.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/578545b27bc72556/GAMETXT.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/64f614aedbfc057b/BANKOMAT.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/773e4d7d81ab2a64/ENGINE.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/9683b02120148a17/GRA-W-ZYCIE.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/c58781bf1fae23c2/ENGINE.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/e002e81770a0a7d3/GAMEOFLIFE.ipch
+.vs/Gra-w-zycie/v17/ipch/AutoPCH/f7d407475c8de8f9/MAIN.ipch
+Gra-w-zycie.sln
+Gra-w-zycie.vcxproj
+Gra-w-zycie.vcxproj.filters
+Gra-w-zycie.vcxproj.user
+x64/Debug/Gra-w-zycie.Build.CppClean.log
+x64/Debug/Gra-w-zycie.exe.recipe
+x64/Debug/Gra-w-zycie.ilk
+x64/Debug/Gra-w-zycie.log
+x64/Debug/Gra-w-zycie.pdb
+x64/Debug/Gra-w-zycie.tlog/CL.command.1.tlog
+x64/Debug/Gra-w-zycie.tlog/CL.read.1.tlog
+x64/Debug/Gra-w-zycie.tlog/CL.write.1.tlog
+x64/Debug/Gra-w-zycie.tlog/Gra-w-zycie.lastbuildstate
+x64/Debug/Gra-w-zycie.tlog/link.command.1.tlog
+x64/Debug/Gra-w-zycie.tlog/link.read.1.tlog
+x64/Debug/Gra-w-zycie.tlog/link.write.1.tlog
+x64/Debug/Gra-w-zycie.vcxproj.FileListAbsolute.txt
+x64/Debug/vc143.idb
+x64/Debug/vc143.pdb
