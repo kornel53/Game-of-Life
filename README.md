@@ -1,4 +1,4 @@
-# Game of Life \[C++\]
+# The Game of Life \[C++\]
 
 The Game of Life  is a cellular automaton, and was invented by Cambridge mathematician John Conway.
 
