@@ -16,9 +16,9 @@ Rules:
 
 # How to play
 
-Use the file named *init.txt* in the project directory. Each line consists of two numbers separated by spaces: width and height.
+Use the file named *init.txt* in the project directory to initialize a **toroidal** game board. Each line consists of two numbers separated by spaces: width and height.
 * in the first line put board size,
-* in the next lines, put the coordinates (x, y) of the alive cells
+* in the next lines put the coordinates (x, y) of the alive cells
 
 e.g. *init.txt* file
 ```
@@ -44,7 +44,7 @@ The game will automatically count the number of alive cells, so feel free to add
 
 # Technical section
 
-## The game was meant to be written with the principles of OOP.
+### The game was meant to be written with the principles of OOP.
 
 Classes *Engine* and *GameOfLife* are the platform-independent files which are the brains of the game, 
 while the *GameTxt* class is the implementation for the specific system (in this case: Windows console).
